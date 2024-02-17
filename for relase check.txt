@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=5tgcogEoIiQ&ab_channel=ProgrammingwithMash
+
+
+{
+  "plugins": [
+    [
+      "module:react-native-dotenv",
+      {
+        "envName": "APP_ENV",
+        "moduleName": "@env",
+        "path": ".env"
+      }
+    ],
+    // "transform-remove-console" // add ini ketika mau release di file .babelrc
+  ]
+}

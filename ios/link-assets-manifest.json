@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Blinker-Black.ttf",
+      "sha1": "fc012cafa7f141b318e3acb4704abbe3ff2a2d1b"
+    },
+    {
+      "path": "src/assets/fonts/Blinker-Bold.ttf",
+      "sha1": "8d0f87f6bf868f0fe784ff5c7ab4e04b660d5d99"
+    },
+    {
+      "path": "src/assets/fonts/Blinker-ExtraBold.ttf",
+      "sha1": "28b1eb785572b1377c9ae2b9973ae2a6273d8860"
+    },
+    {
+      "path": "src/assets/fonts/Blinker-ExtraLight.ttf",
+      "sha1": "1edf6279728f1ed14c506891f8e42517f843e145"
+    },
+    {
+      "path": "src/assets/fonts/Blinker-Light.ttf",
+      "sha1": "7f289867439be99cb247a794380626ff73db9456"
+    },
+    {
+      "path": "src/assets/fonts/Blinker-Regular.ttf",
+      "sha1": "b661146d398b617f2b4d13a18c9253b2ebca4813"
+    },
+    {
+      "path": "src/assets/fonts/Blinker-SemiBold.ttf",
+      "sha1": "07c21bc09293f07805e2896a3cf1628870b0daff"
+    },
+    {
+      "path": "src/assets/fonts/Blinker-Thin.ttf",
+      "sha1": "20a26089d43981b71b4353da5dcbb3fbc2c432d2"
+    },
+    {
+      "path": "src/assets/fonts/OFL.txt",
+      "sha1": "e4575441fb9b826e243d7a76622686d7923835cb"
+    }
+  ]
+}

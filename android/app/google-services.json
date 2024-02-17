@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "322734605788",
+    "project_id": "betabaezeni",
+    "storage_bucket": "betabaezeni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322734605788:android:321cde9e9aa87072463b19",
+        "android_client_info": {
+          "package_name": "com.beta_baezeni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800099301780-nuofe105di249b5b5pal0ic7dif7j9mt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beta_baezeni",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "800099301780-n0fc2n6lr2lik29qbho7rdjln0m5d339.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlhqZJk4ADK_i5VVM7fXnVNxmX34LgYs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
